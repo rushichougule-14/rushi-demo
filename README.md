@@ -1,4 +1,4 @@
 # rushi-demo
 This is my first Repository
 <br>
-Author - Rushi Chougule
+Author - Rushi Chougule , (Kolhapur)
